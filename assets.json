@@ -1,0 +1,18 @@
+{
+  "_notes": "Image files the site uses, with where to download each one. scripts/fetch-assets.mjs pulls anything missing. Stills from her scenes are added here as they are made (hosted in the portfolio-media R2 bucket).",
+  "files": {
+    "assets/img/posters/tt43155703.jpg": "https://m.media-amazon.com/images/M/MV5BNDVhMzIzMjktZmFlNi00MDQ3LTg1MDEtOGJhZmJjMTBlMTA4XkEyXkFqcGc@._V1_.jpg",
+    "assets/img/posters/tt42152402.jpg": "https://m.media-amazon.com/images/M/MV5BMzFjZWM4NzktMWRkNS00M2Q4LTkwYzEtZWExNTAzOWZhNmQ5XkEyXkFqcGc@._V1_SX600.jpg",
+    "assets/img/photos/about.jpg": "https://media.austindevs.com/coco-colten/site/photos/about.jpg",
+    "assets/img/photos/hero.jpg": "https://media.austindevs.com/coco-colten/site/photos/hero.jpg",
+    "assets/img/photos/reel-poster.jpg": "https://media.austindevs.com/coco-colten/site/photos/reel-poster.jpg",
+    "assets/img/photos/still-1.jpg": "https://media.austindevs.com/coco-colten/site/photos/still-1.jpg",
+    "assets/img/photos/still-2.jpg": "https://media.austindevs.com/coco-colten/site/photos/still-2.jpg",
+    "assets/img/photos/still-3.jpg": "https://media.austindevs.com/coco-colten/site/photos/still-3.jpg",
+    "assets/img/photos/still-4.jpg": "https://media.austindevs.com/coco-colten/site/photos/still-4.jpg",
+    "assets/img/photos/still-5.jpg": "https://media.austindevs.com/coco-colten/site/photos/still-5.jpg",
+    "assets/img/photos/still-6.jpg": "https://media.austindevs.com/coco-colten/site/photos/still-6.jpg",
+    "assets/img/photos/still-7.jpg": "https://media.austindevs.com/coco-colten/site/photos/still-7.jpg",
+    "assets/img/photos/still-8.jpg": "https://media.austindevs.com/coco-colten/site/photos/still-8.jpg"
+  }
+}

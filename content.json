@@ -1,0 +1,117 @@
+{
+  "_notes": "All site copy lives here. The page reads everything from this file. Fields marked _todo are placeholders until the family supplies the real thing.",
+  "person": {
+    "firstName": "Coco",
+    "lastName": "Colten",
+    "fullName": "Coco Colten",
+    "location": "Los Angeles, CA",
+    "roles": [
+      "Actor"
+    ],
+    "imdb": "https://www.imdb.com/name/nm18453054/",
+    "email": "hello@cococolten.com",
+    "socials": [
+      {
+        "type": "imdb",
+        "url": "https://www.imdb.com/name/nm18453054/"
+      },
+      {
+        "type": "email",
+        "url": "mailto:hello@cococolten.com"
+      }
+    ]
+  },
+  "images": {
+    "_todo": "hero, about and the stills are frames from The CEO's Tiny Surprise until there are headshots.",
+    "hero": "assets/img/photos/hero.jpg",
+    "about": "assets/img/photos/about.jpg",
+    "headshots": []
+  },
+  "stills": {
+    "title": "On set",
+    "_notes": "Frames from her scenes. src is the image; caption is optional.",
+    "items": [
+      {
+        "src": "assets/img/photos/still-1.jpg",
+        "caption": "“I don't want you. I want my mommy.”"
+      },
+      {
+        "src": "assets/img/photos/still-2.jpg"
+      },
+      {
+        "src": "assets/img/photos/still-3.jpg",
+        "caption": "Sitting with her TV dad"
+      },
+      {
+        "src": "assets/img/photos/still-4.jpg"
+      },
+      {
+        "src": "assets/img/photos/still-5.jpg",
+        "caption": "“Can you come see my teddies?”"
+      },
+      {
+        "src": "assets/img/photos/still-6.jpg"
+      },
+      {
+        "src": "assets/img/photos/still-7.jpg"
+      },
+      {
+        "src": "assets/img/photos/still-8.jpg",
+        "caption": "“Mommy!”"
+      }
+    ]
+  },
+  "reels": {
+    "verticalDrama": {
+      "title": "The CEO's Tiny Surprise",
+      "role": "as Alice Charles",
+      "description": "Coco plays Alice, the five-year-old at the heart of the story, in this vertical series made for mobile.",
+      "duration": "",
+      "orientation": "vertical",
+      "video": "https://media.austindevs.com/coco-colten/vertical-drama/master.m3u8",
+      "_todo": "HLS stream in the portfolio-media R2 bucket (coco-colten/vertical-drama/). 720p.mp4 next to the playlist is the fallback.",
+      "poster": "https://media.austindevs.com/coco-colten/vertical-drama/poster.jpg",
+      "posterPosition": "50% 30%"
+    }
+  },
+  "credits": [
+    {
+      "id": "tt43155703",
+      "title": "The CEO's Tiny Surprise",
+      "role": "Alice Charles",
+      "year": 2026,
+      "type": "Vertical series",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "tt42152402",
+      "title": "My Dark Romeo",
+      "role": "Little Girl 2",
+      "year": 2026,
+      "type": "TV Mini Series",
+      "featured": true,
+      "order": 2
+    }
+  ],
+  "about": {
+    "_todo": "Replace with Coco's own words (or a parent's).",
+    "paragraphs": [
+      "Coco Colten is a young actor in Los Angeles. She plays Alice Charles, the daughter at the centre of The CEO's Tiny Surprise, and appears in My Dark Romeo.",
+      "She loves being on set, takes direction well and brings real feeling to every scene."
+    ]
+  },
+  "representation": {
+    "_todo": "Agent or manager details. All inquiries go through a parent.",
+    "label": "Inquiries",
+    "agency": "",
+    "agent": "",
+    "phone": "",
+    "email": "hello@cococolten.com",
+    "note": "Bookings and inquiries are handled by her parents."
+  },
+  "hero": {
+    "tagline": "Actor",
+    "subline": "Film · Television · Vertical series"
+  }
+}
